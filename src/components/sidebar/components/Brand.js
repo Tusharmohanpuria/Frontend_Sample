@@ -12,7 +12,7 @@ export function SidebarBrand() {
 
   return (
     <Flex align='center' direction='column'>
-      <Logo h='26px' w='175px' my='32px' color={logoColor} />
+      <Logo h='80px' w='200px' my='32px' color={logoColor} />
       <HSeparator mb='20px' />
     </Flex>
   );
