@@ -1,6 +1,6 @@
 # Frontend Sample - UI Design
 
-![UI Preview](Preview.png)
+![UI Preview](PreviewImage.png)
 
 A simple frontend UI sample built with React, showcasing modern design practices. This project demonstrates clean and responsive design techniques suitable for various web applications.
 
